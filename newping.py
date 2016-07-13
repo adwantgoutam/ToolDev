@@ -19,7 +19,7 @@ def Main():
                 print(value.dest+ " "+ value.help)
 
     if args.password:
-        print("Command Executes: The password entered is valid")
+        print("Command Exec: The password entered is valid")
 
     if args.ignore:
         print("This command executes to ignore few parameters within the domain testing")
