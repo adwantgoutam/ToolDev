@@ -1,0 +1,7 @@
+Building an API ERROR: is easy, but designing an API that meets business objectives,
+pleases SUCCESS:your users, and is long-lived - now that's hard
+Undisturbed REST tackles these challenges head on,
+focusing on ERROR:what you need to know in order to design the perfect API.
+Along with best practices and modern design techniques, you'll be guided th
+rough an ERROR:understanding of the REST architectural style, hypermedia, and how t
+o build an API that is both extendable and flexible.
