@@ -1,0 +1,10 @@
+Usage: terasort.sh [-h] [-nm nummaps ] [-nr numreduce] [-r replication] [-result file]
+
+To start an Hadoop terasort map-reduce job
+
+optional arguments:
+  -h    show this help message and exit
+  -nm   defines number of maps to use in the map-reduce (default 445)
+  -nr   defines number of reduce to use in the map-reduce (default 220)
+  -r    number of data replications (default 1)
+  -result save the result to file
