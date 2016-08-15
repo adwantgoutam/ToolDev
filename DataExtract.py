@@ -13,7 +13,7 @@ for line in file:
     elif re.search('SUCCESS',line):
         successCount = successCount + 1
 
-print("SUCESS:",successCount)
+print("SUCCESS:",successCount)
 
 print("ERROR:",errorCount)
 
