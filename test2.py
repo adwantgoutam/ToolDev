@@ -29,8 +29,3 @@ def Main():
 
 if __name__ == '__main__':
     Main()
-
-
-
-##result = fibo(args.num)
-    ##print("The "+str(args.num)+"th fibonacci number is "+str(result))
